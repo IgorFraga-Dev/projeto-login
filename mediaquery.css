@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+@media  (min-width: 768px) and (max-width: 1023){
+ body,html {
+background-image: linear-gradient(top #3B0764, #7E22CE);
+ }
+}
