@@ -31,6 +31,7 @@ Media Queries (Mobile First)
     }
 section#login {
     width: 90vw;
+    height: 350px;
     
 }
 section#login >div#imagem {
@@ -51,7 +52,8 @@ div#formulário {
         background-image: linear-gradient(to top,#3B0764,#8B5CF6);
     }
 section#login {
-    width: 90vw;
+    width: 55vw;
+    height: 350px;
     
 }
 section#login >div#imagem {
@@ -72,7 +74,8 @@ div#formulário {
         background-image: linear-gradient(to top,#3B0764,#8B5CF6);
     }
 section#login {
-    width: 90vw;
+    width: 55vw;
+    height: 350px;
     
 }
 section#login >div#imagem {
