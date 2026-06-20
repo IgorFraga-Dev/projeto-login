@@ -68,17 +68,19 @@ div.campo {
     
 }
 div.campo > input {
-background-color: #581C87;
+background-color: #ffffff;
 font-size: 1em;
 width: calc(100% - 44px);
 height: 100%;
 border: 0px;
 border-radius: 8px;
-
+padding-left: 5px;
+margin-top: 1px;
 }
 div.campo > input:focus-within {
     background-color: white;
     border: none;
+    margin-bottom: 10px;
 }
 div.campo > label {
     display: none;
